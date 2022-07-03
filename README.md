@@ -1,2 +1,2 @@
 # primeiras-tarefas-com-NodeJS
-HTTP, express, postan e consumação de API.
+HTTP, express, postman e consumação de API.
